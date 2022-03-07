@@ -1,0 +1,6 @@
+﻿  DataContext.cpp
+C:\Users\WDavidLopez\source\repos\Athmosv2\src\Athmosv2.Infrastructure\DataContext.h(12,15): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  Repository.cpp
+C:\Users\WDavidLopez\source\repos\Athmosv2\src\Athmosv2.Infrastructure\DataContext.h(12,15): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  Generando código...
+  Athmosv2.Infrastructure.vcxproj -> C:\Users\WDavidLopez\source\repos\Athmosv2\Debug\Athmosv2.Infrastructure.lib

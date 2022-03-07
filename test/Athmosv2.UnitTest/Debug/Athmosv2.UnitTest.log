@@ -1,0 +1,4 @@
+﻿  Athmosv2.UnitTest.cpp
+C:\Users\WDavidLopez\source\repos\Athmosv2\src\Athmosv2.Infrastructure\DataContext.h(12,15): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+     Creando biblioteca C:\Users\WDavidLopez\source\repos\Athmosv2\Debug\Athmosv2.UnitTest.lib y objeto C:\Users\WDavidLopez\source\repos\Athmosv2\Debug\Athmosv2.UnitTest.exp
+  Athmosv2.UnitTest.vcxproj -> C:\Users\WDavidLopez\source\repos\Athmosv2\Debug\Athmosv2.UnitTest.dll
